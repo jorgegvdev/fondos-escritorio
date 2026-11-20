@@ -28,4 +28,8 @@ Personal collection of wallpapers. Click any image to view it in full size.
     <td align="center"><a href="stay-vigil-by-pndora.jpg"><img src="stay-vigil-by-pndora.jpg" width="300"></a><br>stay-vigil-by-pndora</td>
     <td align="center"><a href="sushi.jpg"><img src="sushi.jpg" width="300"></a><br>sushi</td>
   </tr>
+  <tr>
+  <td align="center"><a href="jungle-cats-hideaway.jpg"><img src="jungle-cats-hideaway.jpg" width="300"></a><br>jungle-cats-hideway</td>
+
+  </tr>
 </table>
